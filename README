@@ -17,7 +17,7 @@ python3 Deploy.py
 ## Additional Information
 
 PackageList - String array with all of your PowerBuilder packages you want to deploy
-PackagePath - String of current location your PowerBuilder packages are located (In a few places this needs to be changed for every user to point to their PowerBuilder package location)
+PackagePath - String of current location your PowerBuilder packages are located (In a few places this needs to be changed for every user to point to their current PowerBuilder package location)
 
 
 ## Authors
